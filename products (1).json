@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Espresso Shot 16oz",
+      "price": 60,
+      "mood": "espresso",
+      "image": "images/espresso.jpg",
+      "description": "ช็อตเข้มข้นแบบดั้งเดิม ปลุกประสาทสัมผัสให้ตื่นเต็มร้อย"
+    },
+    {
+      "id": 2,
+      "name": "Espresso Shot 22oz",
+      "price": 75,
+      "mood": "espresso",
+      "image": "images/espresso.jpg",
+      "description": "เพิ่มความเข้มข้นให้พลังงานเต็มวัน สำหรับคนที่ต้องการมากกว่าหนึ่งช็อต"
+    },
+    {
+      "id": 3,
+      "name": "Iced Latte 16oz",
+      "price": 70,
+      "mood": "latte",
+      "image": "images/latte.jpg",
+      "description": "เอสเปรสโซ่ผสานนมสดเนียนนุ่ม หอมกลมกล่อมทุกจิบ"
+    },
+    {
+      "id": 4,
+      "name": "Iced Latte 22oz",
+      "price": 85,
+      "mood": "latte",
+      "image": "images/latte.jpg",
+      "description": "แก้วใหญ่จุใจ นุ่มนวลผ่อนคลายได้นานขึ้น"
+    },
+    {
+      "id": 5,
+      "name": "Iced Caramel Macchiato 16oz",
+      "price": 80,
+      "mood": "latte",
+      "image": "images/latte.jpg",
+      "description": "คาราเมลหอมหวานตัดกับกาแฟเข้มข้น ลงตัวทุกชั้นรสชาติ"
+    },
+    {
+      "id": 6,
+      "name": "Iced Caramel Macchiato 22oz",
+      "price": 95,
+      "mood": "latte",
+      "image": "images/latte.jpg",
+      "description": "ความหวานมันแบบจุใจ เพิ่มความสุขในทุกคำ"
+    },
+    {
+      "id": 7,
+      "name": "Orange Americano 16oz",
+      "price": 85,
+      "mood": "fruity",
+      "image": "images/fruity-coffee.jpg",
+      "description": "กาแฟดำผสานความสดชื่นของส้ม ให้พลังบวกสไตล์ใหม่"
+    },
+    {
+      "id": 8,
+      "name": "Yuzu Cold Brew 16oz",
+      "price": 95,
+      "mood": "fruity",
+      "image": "images/fruity-coffee.jpg",
+      "description": "ยูซุหอมสดชื่นตัดกับกาแฟสกัดเย็น สดชื่นแบบมีเอกลักษณ์"
+    },
+    {
+      "id": 9,
+      "name": "Classic Cold Brew 250ml",
+      "price": 89,
+      "mood": "coldbrew",
+      "image": "images/cold-brew.jpg",
+      "description": "สกัดเย็นนุ่มละมุน ไม่ขม ดื่มง่ายทุกโอกาส"
+    },
+    {
+      "id": 10,
+      "name": "Vanilla Cold Brew 250ml",
+      "price": 99,
+      "mood": "coldbrew",
+      "image": "images/cold-brew.jpg",
+      "description": "วานิลลาหอมหวานอ่อนๆ เพิ่มความนุ่มนวลให้ทุกจิบ"
+    }
+  ]
+}
